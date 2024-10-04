@@ -21,6 +21,9 @@ def prepare_image(image):
 st.image('assets/cat_samsa.jpg', width=250)
 st.title('Samsa or not Samsa?')
 st.markdown("**made by @hexerty**")
+
+url = 'https://www.youtube.com/watch?v=vIci3C4JkL0&t=121s'
+st.markdown("inspired by [this](%s)"% url)
 st.divider()
 
 uploaded_file = st.file_uploader("Choose an image...", type="jpg")
