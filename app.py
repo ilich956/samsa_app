@@ -20,7 +20,6 @@ def prepare_image(image):
 
 st.image('assets/cat_samsa.jpg', width=250)
 st.title('Samsa or not Samsa?')
-st.markdown("**made by @hexerty**")
 
 url = 'https://youtu.be/vIci3C4JkL0?si=mWWkBIazs1pQoW1E'
 st.markdown("inspired by [this](%s)"% url)
