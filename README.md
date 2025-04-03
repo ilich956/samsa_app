@@ -1,5 +1,7 @@
 # Samsa Classification App
 
+![1_VrpXE1hE4rO1roK0laOd7g](https://github.com/user-attachments/assets/3412405a-a957-4b73-a759-499a38c163c9)
+
 This app allows users to upload an image and classify it as either "Samsa" or "Not Samsa" using a trained machine learning model. The model uses Xception as the base architecture and is fine-tuned to distinguish between Samsa images and others.
 
 ## Features
